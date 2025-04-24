@@ -12,4 +12,14 @@ software
 - Concluído significa pronto para entrega
 - Todos são responsáveis pela entrega do software
 
+## Ciclo de Vida - Etapas
+- Planejamento (Plan)
+- Codificação (Code)
+- Construção (Build)
+- Teste (Test)
+- Lançamento (Release)
+- Liberação (Deploy)
+- Operação(Operate)
+- Monitoramento (Monitor)
+
 
