@@ -22,4 +22,11 @@ software
 - Operação(Operate)
 - Monitoramento (Monitor)
 
+## Integração Contínua (CI) - Entrega Contínua (CD)
+- A Integração Contínua (CI), novo código é frequentemente integrado no ramo principal do
+projeto, mesmo que não esteja pronto para entrar em produção.
+- A entrega contínua no DevOps é uma abordagem que visa tornar o processo de entrega de
+software mais eficiente, confiável e rápida.
+
+
 
